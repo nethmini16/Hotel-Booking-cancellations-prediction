@@ -1,5 +1,9 @@
 # Hotel-Booking-cancellations-prediction
 
+* Data cleaning
+* EDA
+* Machine learning model building
+
 In the hotel industry, when there are last-minute booking cancellations or ‘no shows’, it affects the income of the hotel badly resulting in the hotel employing vigorous cancellation policies and overbooking strategies. However, these have a negative impact on the number of bookings. This problem can be minimized by developing a machine-learning model that could accurately predict booking cancellations. The dataset was obtained through Kaggle which included hotel booking data relating to two hotels in Portugal. The data was cleaned, analysed and visualized using Python. 
 
 Commonly used machine learning binary classification models namely; Logistic Regression, Decision Tree Classifier, Random Forest Classifier, K-Nearest Neighbors and Bernoulli Naive Bayes were tested. According to the evaluation metrics; accuracy, precision, recall, F1-score and ROC AUC, Random Forest Classifier performed the best obtaining an accuracy score of 85%. 
